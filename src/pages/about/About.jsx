@@ -33,8 +33,8 @@ const About = () => {
       </div>
     </section>
 
-    <section className="about__Vision">
-      <div className="container about__Vision-container">
+    <section className="about__vision">
+      <div className="container about__vision-container">
         <div className="about__section-content">
           <h1>Our Vision</h1>
           <p>
